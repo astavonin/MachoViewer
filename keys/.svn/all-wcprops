@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/stavonin/!svn/ver/30/Tasks%20Explorer/keys
+END
+sign_update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/stavonin/!svn/ver/30/Tasks%20Explorer/keys/sign_update.rb
+END
+dsa_priv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/stavonin/!svn/ver/30/Tasks%20Explorer/keys/dsa_priv.pem
+END
+dsa_pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/stavonin/!svn/ver/30/Tasks%20Explorer/keys/dsa_pub.pem
+END
